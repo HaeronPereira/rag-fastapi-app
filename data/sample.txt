@@ -1,3 +1,2 @@
 RAG stands for Retrieval Augmented Generation.
 It combines retrieval systems with language models to improve accuracy.
-Shanu is the best wife in this whole workld
