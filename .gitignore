@@ -11,4 +11,3 @@ __pycache__/
 # FAISS & cache files
 data/faiss*.index
 data/docs*.pkl
-
